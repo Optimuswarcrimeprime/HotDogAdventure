@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7499f1870a0470c48998b9f6e9a47093, type: 3}
+  m_Name: Inesta
+  m_EditorClassIdentifier: 
+  EnemyName: Inesta
+  BaseHealth: 20
+  BaseStrength: 4
+  BaseDefense: 1
+  BaseMagic: 2
+  BaseMagicDefense: 1
+  BasePriority: 4
+  EnemyVisualPrefab: {fileID: 2245633076075977225, guid: 7e77c58d87c41c04891c245d5247dd51, type: 3}
